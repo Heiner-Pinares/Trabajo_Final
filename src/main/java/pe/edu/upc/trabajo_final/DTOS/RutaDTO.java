@@ -16,7 +16,6 @@ public class RutaDTO {
     private int duracion;
     private int distancia;
 
-
     private Vehiculo vehiculo;
 
     public int getId() {

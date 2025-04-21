@@ -13,7 +13,7 @@ import java.util.List;
 public class RutaServiceImplement implements IRutaService {
     @Autowired
     private IRutaRepository rR;//(metodo)
-
+    //diegoooo
     @Override
     public List<Ruta> list() {
         return rR.findAll();
